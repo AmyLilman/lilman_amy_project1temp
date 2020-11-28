@@ -32,4 +32,4 @@ while True:
         light.set_pixel_color(6, light.rgb(0, 250, 0))
         light.set_pixel_color(7, light.rgb(0, 250, 0))
         light.set_pixel_color(8, light.rgb(0, 250, 0))
-        light.set_pixel_color(9, light.rgb(0, 250, 0))
+        light.set_pixel_color(9, light.rgb(0, 250, 0))        
